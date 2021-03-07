@@ -1,0 +1,48 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.text-left {
+	font-family: Lato, sans-serif;
+}
+
+p {
+	font-family: Lato, sans-serif;
+	color: #465273;
+}
+
+.text-center {
+	font-family: Lato, sans-serif;
+}
+
+h1 {
+	color: #FFFFFF;
+	font-family: Lato, sans-serif;
+	font-weight: 900;
+	font-size: 50pt;
+}
+
+h2 {
+	font-family: Lato, sans-serif;
+	color: #EB5760;
+	font-weight: 900;
+	padding-top: 25px;
+	padding-bottom: 35px;
+}
+
+h3 {
+	color: #FFFFFF;
+	padding: 25px;
+	font-weight: 300;
+}
+
+.heading {
+	padding: 150px;
+	background-color: #5780EB;
+}
+
+hr {
+	background-color: #5780EB;
+	margin-top: 90px;
+	margin-bottom: 90px;
+	
+}
